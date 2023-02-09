@@ -27,6 +27,42 @@ button{
     border: 0;
     border-radius: 5px;
 }
+
+.plan{
+    display: flex;
+    margin: 30px;
+    padding-top: 30px;
+    padding-left:45px;
+    padding-bottom: 25px;
+}
+#textclr{
+    color: rgb(72, 70, 70);
+}
+ul{
+    list-style-type: square;
+}
+#padding{
+    padding-top: 100px;
+    padding-left: 60px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.iconset{
+    display: flex;
+    margin: 50px;
+    padding-top: 30px;
+    padding-right:45px;
+    padding-bottom: 25px;
+}
+
+.saperate{
+    padding-right: 60px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin-right: 50px;
+
+}
+
 footer{
     background-color: black;
     color: white;
