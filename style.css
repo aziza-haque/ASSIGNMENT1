@@ -47,22 +47,32 @@ ul{
     font-size: 15px;
     font-weight: 400;
 }
-.iconset{
+.box{
     display: flex;
-    margin: 50px;
-    padding-top: 30px;
-    padding-right:45px;
+    margin: 40px;
+}
+.seperate{
+padding: 40px 50px;
+    color:rgb(1, 7, 13);
+    border-radius: 5px;
+    margin-left: 50px;
+    font-size: 15px;
+    text-align: center;
+   
+}
+.headerer{
+    color: aliceblue;
+    text-align:left;
+    padding-top: 55px;
+    padding-left:205px;
     padding-bottom: 25px;
+    background-image: url(images/gradient1.png);
+    background-repeat: no-repeat;
+    background-size: 75% 55%;
+    margin-top: 20px;
+height: 200px;
+    background-position: center;
 }
-
-.saperate{
-    padding-right: 60px;
-    padding-bottom: 30px;
-    padding-left: 30px;
-    margin-right: 50px;
-
-}
-
 footer{
     background-color: black;
     color: white;
